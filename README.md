@@ -1,0 +1,2 @@
+# Text-to-image
+TEXT-TO-IMAGE SYNTHESIS USING GAN
